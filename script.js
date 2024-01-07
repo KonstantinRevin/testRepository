@@ -6,4 +6,4 @@ fetch(apiUrl)
     })
     .then((data) => {
         console.log(data);
-    });
+    });svdrgvsdrgvsrd
